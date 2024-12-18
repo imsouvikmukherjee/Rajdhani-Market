@@ -9,10 +9,13 @@
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/9944e458-7dd3-4d83-b494-23f09d2efd63" alt="Screenshot" width="300">
-![Screenshot_20241218_213614_Chrome](https://github.com/user-attachments/assets/9944e458-7dd3-4d83-b494-23f09d2efd63)
+
+  <img src="![Screenshot_20241202_142707_Chrome](https://github.com/user-attachments/assets/48686195-21af-4213-add7-1b1f4f538d99)
+" alt="Screenshot" width="300">
 
 
-![Screenshot_20241202_142652_Chrome](https://github.com/user-attachments/assets/53cceae3-42f0-4f67-b5cf-f2d2466823a2)
+
+
 
 </p>
 
